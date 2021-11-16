@@ -1,2 +1,2 @@
 # Flutter
-projects developed in Flutter
+projects developed on Flutter
